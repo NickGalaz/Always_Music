@@ -7,13 +7,9 @@
 
 #### Contenidos Desarrollados:
 
-- Introducción a Node
+- Implementación y Gestión de una Base de Datos
 
-- Node y el gestor de paquetes NPM
-
-- Llamadas Asíncronas
-
-- API REST y Testing
+- Transacciones, cursores y API REST
 
 ## Programa de Desarrollo de Aplicaciones FullStack JAVASCRIPT
 
